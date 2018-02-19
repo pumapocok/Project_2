@@ -1,0 +1,29 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pumapocok/Project_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pumapocok/Project_2/issues"
+  },
+  "homepage": "https://github.com/pumapocok/Project_2#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "magnific": "0.0.0",
+    "magnific-popup": "^1.1.0",
+    "popup": "0.0.3"
+  }
+}
